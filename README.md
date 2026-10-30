@@ -1,18 +1,18 @@
-# Hi, I'm Duran Özçelik 👋
+# Hi, I'm Duran Özçelik 
 
 I'm a senior Computer Engineering student at Eskişehir Technical University, working on machine learning, application development and cyber security.
 I like building things end to end: training the model, shipping the app around it, and keeping it secure.
 
 ---
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duran-%C3%B6z%C3%A7elik-08a998222/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ozcelik.duran17@gmail.com)
 
 ---
 
-## 🤖 Work Areas
+##  Work Areas
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge)
