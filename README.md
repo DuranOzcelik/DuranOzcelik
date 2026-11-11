@@ -1,7 +1,9 @@
 # Hi, I'm Duran Özçelik 
 
+
 I just graduated from the Computer Engineering department at Eskişehir Technical University. I work in the fields of machine learning, application development, and cybersecurity.
 I enjoy developing things end-to-end: training the model, building the application around it, and keeping it secure.
+
 ---
 
 ##  Let's Connect!
