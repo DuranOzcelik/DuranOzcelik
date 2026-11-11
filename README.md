@@ -1,8 +1,7 @@
 # Hi, I'm Duran Özçelik 
 
-I'm a senior Computer Engineering student at Eskişehir Technical University, working on machine learning, application development and cyber security.
-I like building things end to end: training the model, shipping the app around it, and keeping it secure.
-
+I just graduated from the Computer Engineering department at Eskişehir Technical University. I work in the fields of machine learning, application development, and cybersecurity.
+I enjoy developing things end-to-end: training the model, building the application around it, and keeping it secure.
 ---
 
 ##  Let's Connect!
